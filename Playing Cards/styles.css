@@ -1,4 +1,5 @@
 .table {
+   margin : 25px;
    width: 400px;
    height: 300px;
    background: linear-gradient(forestgreen, darkgreen);
@@ -67,4 +68,7 @@
    bottom: 2px;
 }
 
-
+a{
+    padding : 25px;
+    font-size: x-large;
+}
